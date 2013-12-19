@@ -29,17 +29,12 @@ PRODUCT_PACKAGES := \
     Email \
     Exchange2 \
     FusedLocation \
-    Gallery2 \
     InputDevices \
     Keyguard \
     LatinIME \
-    Launcher2 \
-    Music \
-    MusicFX \
     OneTimeInitializer \
     PrintSpooler \
     Provision \
-    QuickSearchBox \
     Settings \
     SystemUI \
     TeleService \
